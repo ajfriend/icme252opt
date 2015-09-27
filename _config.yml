@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            CME 252
+description:      Introduction to Optimization
+url:              http://ajfriend.github.io/
+baseurl:          /icme252opt
+
+author:
+  name:           'AJ Friend'
+
+github:
+  repo:           https://github.com/ajfriend/ajfriend.github.io
